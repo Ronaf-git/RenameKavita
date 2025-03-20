@@ -1,3 +1,9 @@
+# Please Consider Metadata Before Renaming
+
+Instead of renaming files, it's better to use tools that embed metadata directly into your files.
+
+For example, a useful tool for this purpose is [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager).
+
 # RenameKavita
 Rename Manga Files to fit Kavita's scanner : https://wiki.kavitareader.com/guides/scanner
 
